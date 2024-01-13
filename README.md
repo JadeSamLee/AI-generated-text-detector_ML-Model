@@ -1,1 +1,1 @@
-# AI-generated-text-detector---ML-Model
+# AI-generated-text-detector_ML-Model
